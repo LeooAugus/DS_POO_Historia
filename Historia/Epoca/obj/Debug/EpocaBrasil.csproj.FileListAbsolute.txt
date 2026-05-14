@@ -1,0 +1,10 @@
+C:\Users\leona\source\repos\Historia\Epoca\obj\Debug\EpocaBrasil.csproj.AssemblyReference.cache
+C:\Users\leona\source\repos\Historia\Epoca\obj\Debug\Epoca.Form1.resources
+C:\Users\leona\source\repos\Historia\Epoca\obj\Debug\Epoca.Properties.Resources.resources
+C:\Users\leona\source\repos\Historia\Epoca\obj\Debug\EpocaBrasil.csproj.GenerateResource.cache
+C:\Users\leona\source\repos\Historia\Epoca\obj\Debug\EpocaBrasil.csproj.CoreCompileInputs.cache
+C:\Users\leona\source\repos\Historia\Epoca\bin\Debug\Epoca.exe.config
+C:\Users\leona\source\repos\Historia\Epoca\bin\Debug\Epoca.exe
+C:\Users\leona\source\repos\Historia\Epoca\bin\Debug\Epoca.pdb
+C:\Users\leona\source\repos\Historia\Epoca\obj\Debug\Epoca.exe
+C:\Users\leona\source\repos\Historia\Epoca\obj\Debug\Epoca.pdb
